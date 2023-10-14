@@ -3,3 +3,9 @@
   to = "/images/speed/noise-10MB.png"
   status = 302
   force = true
+
+[[redirects]]
+  from = "https://p3speedtest-25.pansift.net/"
+  to = "/images/speed/noise-25MB.png"
+  status = 302
+  force = true
