@@ -1,0 +1,3 @@
+# With ImageMagick installed
+
+convert -size 2885x2885 xc: +noise Random noise-50MB.png
