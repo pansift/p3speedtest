@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/"
+  to = "/images/speed/noise-10MB.png"
+  status = 301
+  force = true
